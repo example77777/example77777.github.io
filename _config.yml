@@ -103,3 +103,5 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/example77777/example77777.github.io
+  branch: master
+  token: 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
